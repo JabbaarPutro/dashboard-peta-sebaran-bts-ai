@@ -1,0 +1,44 @@
+{
+  "pointData": [
+    {
+      "id": 1,
+      "nama_situs": "BTS Jakarta Pusat 1",
+      "kabupaten": "Jakarta Pusat",
+      "status": "On Air",
+      "jaringan": "4G",
+      "jenis_layanan": "Mobile Data",
+      "lat": -6.175110,
+      "lon": 106.865036
+    },
+    {
+      "id": 2,
+      "nama_situs": "BTS Bandung Utara",
+      "kabupaten": "Bandung",
+      "status": "Dalam Pembangunan",
+      "jaringan": "4G",
+      "jenis_layanan": "Mobile Data",
+      "lat": -6.914864,
+      "lon": 107.608238
+    },
+    {
+      "id": 3,
+      "nama_situs": "BTS Surabaya Timur",
+      "kabupaten": "Surabaya",
+      "status": "On Air",
+      "jaringan": "5G",
+      "jenis_layanan": "Mobile Data",
+      "lat": -7.250445,
+      "lon": 112.768845
+    }
+  ],
+  "provinceData": {
+    "DKI JAKARTA": { "total": 1 },
+    "JAWA BARAT": { "total": 1 },
+    "JAWA TIMUR": { "total": 1 }
+  },
+  "lastUpdated": "2025-11-25 12:00:00",
+  "filters": {
+    "jaringan": ["4G", "5G"],
+    "jenis_layanan": ["Mobile Data", "Fixed Broadband"]
+  }
+}
